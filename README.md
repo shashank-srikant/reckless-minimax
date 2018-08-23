@@ -45,3 +45,15 @@ The plotting script can be found at `utils/plot_cd.py`
 
 #### Reference
 [1] Demšar, Janez. "Statistical comparisons of classifiers over multiple data sets." Journal of Machine learning research 7.Jan (2006): 1-30.
+
+### Citation
+If you make use of this code and you'd like to cite us, please consider the following:
+```
+@article{al2018application,
+  title={On the Application of Danskin's Theorem to Derivative-Free Minimax Optimization},
+  author={Al-Dujaili, Abdullah and Srikant, Shashank and Hemberg, Erik and O'Reilly, Una-May},
+  journal={arXiv preprint arXiv:1805.06322},
+  year={2018}
+}
+```
+
